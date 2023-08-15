@@ -33,7 +33,7 @@ The raw data were imported into Excel Power Query. The following transformation 
 - The raw data was first converted into a Table
 - THe birthdate column was in the wrong format - mm/dd/yyyy instead of dd/mm/yyyy. This was corrected
 - A new column named "Age" which will contain the age of each customer
-- Upon closer inspection, it was observed that in "car_model" column, some of the car models were written. These cars were made by the car manufacturer "Saab Automobile". Since there was no way to confirm the exact make, all of such erroneous date values were replaced with "N/A"
+- Upon closer inspection, it was observed that in "car_model" column, some of the car models were written in date format. These cars were made by the car manufacturer "Saab Automobile". Since there was no way to confirm the exact make, all of such erroneous date values were replaced with "N/A"
 - The query was then renamed as "Insurance" and loaded into Excel.
 
 Raw Data              |         
