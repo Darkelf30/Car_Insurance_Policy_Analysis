@@ -77,7 +77,7 @@ These include:
 1.  The total customers surveyed was 37542
 2.  The average claims amount was $50,028.51
 3.  The total claim frequency is 19158
-4.  Equl proportion of males and females make car insurance claims
+4.  Equal proportion of males and females make car insurance claims
 5.  More non-parents make car insurance claims compared to parents
 6.  Single individuals make more insurance claims. Also, individuals with a bachelor's degree incur more car insurance claims.
 7.  The following cars models are associated with the most insurance claims on average:
@@ -86,11 +86,11 @@ These include:
    * Dastsun/Nissan Z-car
    * Minx Magnificient
    * Virage
-8.  Single people make more car insurance claims
+
 
 ## Recommendations
 Insurance companies should ensure that single non-parents should be educated on driving safety and precautionary measures as part of the services they offer their customers (at no charge). This will reduce the expenses they incur on paying claims out to such customer demographic.
-Also, manufaturers of car models associated with the most insurance claims and claim amounts should be investigated on the reasons for such higher frequencies and claim amounts. If it is discovered to be a manufacturer problem, the manufacturers should be made to pay heavier taxes for manufacturing more units of those cars.
+Also, manufacturers of car models associated with the most insurance claims and claim amounts should be investigated on the reasons for such higher frequencies and claim amounts. If it is discovered to be a manufacturer problem, the manufacturers should be made to pay heavier taxes for manufacturing more units of those cars.
 
 ## Limitations of Analysis
 This analysis doesn't cover popular car insurance metrics such as average time to settle a claim, average revenue per policy holder, components of claim costs, customer retention rates e.t.c due to the limited data collected and the absence of fields to measure such metrics
